@@ -1,6 +1,7 @@
 # Headphones Website
 
 This "Implement a Web Design from Scratch" project is part of my ALX Intro to SE curriculum, where I've implemented a fully functional web page called "Headphones" using only HTML and CSS, without relying on external libraries or frameworks. The goal of this project is to implement a web page that replicates the [design provided in Figma](https://www.figma.com/file/TwFqqWGYvNYvxZxhdWXv4H/Holberton-School---Headphone-company), showcasing my HTML, CSS, accessibility, and responsive design skills.
+VIEW LIVE: [https://jimike-headphones.netlify.app/](https://jimike.netlify.app/headphones)
 
 ![Headphones Website Preview](assets/images/project-cover.gif)
 
